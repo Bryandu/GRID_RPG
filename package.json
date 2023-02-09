@@ -1,5 +1,5 @@
 {
-  "name": "RPG_GRID",
+  "name": "my-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -41,6 +41,7 @@
     ]
   },
   "devDependencies": {
+    "@types/styled-components": "^5.1.26",
     "styled-components": "^5.3.6"
   }
 }
